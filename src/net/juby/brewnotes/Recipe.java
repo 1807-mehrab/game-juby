@@ -127,8 +127,7 @@ public class Recipe {
 	}
 
 	/**
-	 * @param maltExctracts
-	 *            the Malt extracts to set to be used in this recipe
+	 * @param maltExctracts the Malt extracts to set to be used in this recipe
 	 */
 	public void setMaltExtracts(ArrayList<Malt> maltExtracts) {
 		this.maltExtracts = maltExtracts;
